@@ -48,7 +48,6 @@ A continuación, encontrarás algunas de mis presentaciones destacadas. Haz clic
 |----------------|----------------|----------------|
 | **¿Qué es un framework?** | **¿Qué es Ajax?** | **El diseño responsivo** |
 | [![¿Qué es SVG?](https://raw.githubusercontent.com/pedroarrman/About-Me/refs/heads/main/%C2%BFque%20es%20svg.png)](https://www.canva.com/design/DAF8kCwhdcg/5oByncA90fnzWs13a4mZBQ/view?embed) | |
-|----------------|----------------|
 | **¿Qué es SVG?** | |
 
 
