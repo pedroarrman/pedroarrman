@@ -18,7 +18,7 @@ Diseño web:
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)![CSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white) ![Responsive Design Badge](https://img.shields.io/badge/Responsive%20Design-Flexible%20Layouts-28a745?style=for-the-badge&logo=css3&logoColor=white)
 
  
-Entornos de Trabajo:
+Entornos de Trabajo 🌟:
 
 ![Bower License](https://img.shields.io/bower/l/bootstrap?style=for-the-badge&logo=bootstrap&label=bootstrap) ![WordPress Badge](https://img.shields.io/badge/WordPress-CMS-21759b?style=for-the-badge&logo=wordpress&logoColor=white)
 
@@ -32,19 +32,6 @@ Estructuras de datos:
 
 ![XML Badge](https://img.shields.io/badge/XML-Data%20Format-orange?style=for-the-badge&logo=codeigniter&logoColor=white) ![JSON Badge](https://img.shields.io/badge/JSON-Data%20Exchange-000000?style=for-the-badge&logo=json&logoColor=white)
 
-
-
-
-
-# Mis Presentaciones 🌟
-
-A continuación, encontrarás algunas de mis presentaciones destacadas. Haz clic en cualquiera para verlas en Canva:
-
-| [![¿Qué es un framework?](https://raw.githubusercontent.com/pedroarrman/pedroarrman/refs/heads/main/Que%20es%20un%20framework.png)](https://www.canva.com/design/DAGX29ZbDWQ/vFSJAzmqNXq8UpZXx6haZQ/view?embed) | [![¿Qué es Ajax?](https://raw.githubusercontent.com/pedroarrman/pedroarrman/refs/heads/main/Que%20es%20AJAX.png)](https://www.canva.com/design/DAGZ2fQJbfo/s2n7E16MmUTfM35375Op2Q/view?embed) | [![El diseño responsivo](https://raw.githubusercontent.com/pedroarrman/pedroarrman/refs/heads/main/El%20dise%C3%B1o%20responsivo.png)](https://www.canva.com/design/DAFltOI_kBM/j-NjG0qRfjYdZAG17LT_RA/view?embed) |
-|----------------|----------------|----------------|
-| **¿Qué es un framework?** | **¿Qué es Ajax?** | **El diseño responsivo** |
-| [![¿Qué es SVG?](https://raw.githubusercontent.com/pedroarrman/pedroarrman/refs/heads/main/%C2%BFque%20es%20svg.png)](https://www.canva.com/design/DAF8kCwhdcg/5oByncA90fnzWs13a4mZBQ/view?embed) | [![¿Qué es una API?](https://raw.githubusercontent.com/pedroarrman/pedroarrman/refs/heads/main/Que%20es%20una%20API.png)](https://www.canva.com/design/DAGce3I5yEE/d4WTP0IWlq1VoAbT5lOUPw/view) |
-| **¿Qué es SVG?** | **¿Qué es una API?** |
 
 
 
