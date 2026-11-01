@@ -45,65 +45,15 @@ Por último, he tenido una experiencia profesional en el extranjero, concretamen
 
 ## 💼 Experiencia Profesional
 
-**Fecha**
-
-**Descripción**
-
-Abr 2024 - Jun 2024
-
-**Remarketing.pt (Portugal) 🤔**
-
-✪ Realizar y aplicar auditorías de redes sociales.
-
-✪ Aplicar tácticas de posicionamiento SEO a páginas web
-
-Jul 2022 - May 2023
-
-**Ayuntamiento de Vara de Rey (Cuenca) 🏠**
-
-✪ Manejo del gestor de contenidos de la página web y redes sociales.
-
-✪ Realizar diseños de infografía y edición de imágenes
-
-Abr 2021 - Jun 2021
-
-**Yotta Desarrollos Tecnológicos S.L. 💻**
-
-✪ Estudios de mercado.
-
-✪ Tareas de gestión de la información.
-
-Jun 2020 - Jul 2020
-
-**Administrativo en Extintores Arribas 📋**
-
-✪ Gestionar los servicios proporcionados de forma adecuada en los sistemas informáticos.
-
-✪ Realizar la reposición asegurando el excelente estado de la sección y la correcta gestión del stock.
-
-Sep 2019 - Ene 2020
-
-**Imprenta Repuestos Saiz 📦**
-
-✪ Potenciar las ventas superando el objetivo mensual.
-
-✪ Asesorar en función de las necesidades del cliente alcanzando un alto índice de satisfacción.
-
-Sep 2018 - Dic 2018
-
-**Prevención Laboral los Llanos 📂**
-
-✪ Administración y redacción de documentación.
-
-✪ Ayudante en el departamento de formación, técnico y comercial.
-
-Abr 2015 - Jun 2015
-
-**Asesoría Jiménez 📝**
-
-✪ Elaborar y archivar los documentos con orden clasificado y control.
-
-✪ Informar y atender al público a través de diferentes vías garantizando su satisfacción.
+| **Fecha** | **Descripción** |
+|---|---|
+| Abr 2024 - Jun 2024 | **Remarketing.pt (Portugal) 🤔**<br>✪ Realizar y aplicar auditorías de redes sociales.<br>✪ Aplicar tácticas de posicionamiento SEO a páginas web. |
+| Jul 2022 - May 2023 | **Ayuntamiento de Vara de Rey (Cuenca) 🏠**<br>✪ Manejo del gestor de contenidos de la página web y redes sociales.<br>✪ Realizar diseños de infografía y edición de imágenes. |
+| Abr 2021 - Jun 2021 | **Yotta Desarrollos Tecnológicos S.L. 💻**<br>✪ Estudios de mercado.<br>✪ Tareas de gestión de la información. |
+| Jun 2020 - Jul 2020 | **Administrativo en Extintores Arribas 📋**<br>✪ Gestionar los servicios proporcionados de forma adecuada en los sistemas informáticos.<br>✪ Realizar la reposición asegurando el excelente estado de la sección y la correcta gestión del stock. |
+| Sep 2019 - Ene 2020 | **Imprenta Repuestos Saiz 📦**<br>✪ Potenciar las ventas superando el objetivo mensual.<br>✪ Asesorar en función de las necesidades del cliente alcanzando un alto índice de satisfacción. |
+| Sep 2018 - Dic 2018 | **Prevención Laboral los Llanos 📂**<br>✪ Administración y redacción de documentación.<br>✪ Ayudante en el departamento de formación, técnico y comercial. |
+| Abr 2015 - Jun 2015 | **Asesoría Jiménez 📝**<br>✪ Elaborar y archivar los documentos con orden clasificado y control<br>✪ Informar y atender al público a través de diferentes vías garantizando su satisfacción. |
 
 ## 🎓 Formación Académica
 
