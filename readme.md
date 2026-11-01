@@ -1,6 +1,6 @@
 # PEDRO ARRIBAS MANZANO
 
-![Descripción de la imagen](https://app.notion.com1279553.jpg)
+![Descripción de la imagen](https://raw.githubusercontent.com/pedroarrman/pedroarrman/refs/heads/main/1279553.jpg)
 
 💡 "Cuando llegue la inspiración, que me encuentre trabajando" - Pablo Picasso
 
