@@ -39,8 +39,7 @@ Entornos de Trabajo 🌟:
 
 ![jQuery Badge](https://img.shields.io/badge/jQuery-3.6.4-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
 
-## 
-Estructuras de datos:
+## Estructuras de datos:
 
 ![XML Badge](https://img.shields.io/badge/XML-Data%20Format-orange?style=for-the-badge&logo=codeigniter&logoColor=white) ![JSON Badge](https://img.shields.io/badge/JSON-Data%20Exchange-000000?style=for-the-badge&logo=json&logoColor=white)
 
