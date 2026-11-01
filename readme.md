@@ -30,7 +30,7 @@ Por último, he tenido una experiencia profesional en el extranjero, concretamen
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)![CSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white) ![Responsive Design Badge](https://img.shields.io/badge/Responsive%20Design-Flexible%20Layouts-28a745?style=for-the-badge&logo=css3&logoColor=white)
 
  
-Entornos de Trabajo 🌟:
+## Entornos de Trabajo 🌟:
 
 ![Bower License](https://img.shields.io/bower/l/bootstrap?style=for-the-badge&logo=bootstrap&label=bootstrap) ![WordPress Badge](https://img.shields.io/badge/WordPress-CMS-21759b?style=for-the-badge&logo=wordpress&logoColor=white)
 
