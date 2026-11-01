@@ -4,7 +4,7 @@
 
 💡 "Cuando llegue la inspiración, que me encuentre trabajando" - Pablo Picasso
 
-¡Hola! Me llamo Pedro. He creado este perfil con la intención de elaborar un sitio web, dinámico y actual que funcione como curriculum para que me puedan conocer.
+¡Hola! Me llamo Pedro. He creado este perfil con la intención de elaborar un sitio web, dinámico y actual que funcione como portfolio para que me puedan conocer.
 
 ## 👇 ¿Quien soy? 🧑
 
