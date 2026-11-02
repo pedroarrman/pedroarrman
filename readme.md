@@ -2,7 +2,9 @@
 
 ![Descripción de la imagen](https://raw.githubusercontent.com/pedroarrman/pedroarrman/refs/heads/main/1279553.jpg)
 
-💡 "Cuando llegue la inspiración, que me encuentre trabajando" - Pablo Picasso
+```
+💡 "Cuando llegue la inspiración, que me encuentre trabajando" - Pablo Picasso.
+```
 
 ¡Hola! Me llamo Pedro. He creado este perfil con la intención de elaborar un sitio web, dinámico y actual que funcione como portfolio para que me puedan conocer.
 
