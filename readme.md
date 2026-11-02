@@ -48,7 +48,7 @@ Por último, he tenido una experiencia profesional en el extranjero, concretamen
 
 | **Fecha** | **Descripción** |
 |---|---|
-| Feb 2025 - Jun 2026 | **Escribano Cabañero  🥬**<br>✪ Gestión de actividades de puesta a disposición de trabajadores por Gestion de la prevención de riesgos laborales. |
+| Feb 2025 - Jun 2026 | **Escribano Cabañero  🥬**<br>✪ Gestión de actividades de puesta a disposición de trabajadores por ETTs <br>✪ Gestion de la prevención de riesgos laborales. |
 | Abr 2024 - Jun 2024 | **Remarketing.pt (Portugal) 🤔**<br>✪ Realizar y aplicar auditorías de redes sociales.<br>✪ Aplicar tácticas de posicionamiento SEO a páginas web. |
 | Jul 2022 - May 2023 | **Ayuntamiento de Vara de Rey (Cuenca) 🏠**<br>✪ Manejo del gestor de contenidos de la página web y redes sociales.<br>✪ Realizar diseños de infografía y edición de imágenes. |
 | Abr 2021 - Jun 2021 | **Yotta Desarrollos Tecnológicos S.L. 💻**<br>✪ Estudios de mercado.<br>✪ Tareas de gestión de la información. |
