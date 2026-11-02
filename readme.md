@@ -3,7 +3,7 @@
 ![Descripción de la imagen](https://raw.githubusercontent.com/pedroarrman/pedroarrman/refs/heads/main/1279553.jpg)
 
 ```
-💡 "Cuando llegue la inspiración, que me encuentre trabajando"- Pablo Picasso.
+💡 _"Cuando llegue la inspiración, que me encuentre trabajando"_ - Pablo Picasso.
 ```
 
 ¡Hola! Me llamo Pedro. He creado este perfil con la intención de elaborar un sitio web, dinámico y actual que funcione como portfolio para que me puedan conocer.
@@ -16,33 +16,33 @@ Entre mis cualidades puedo decir que soy una persona que destaca por su buena pr
 
 Por último, he tenido una experiencia profesional en el extranjero, concretamente en Portugal, en la empresa Remarketing.pt, situada en el municipio de Vendas Novas, donde he aprendido mucho y ha influido positivamente en mi desarrollo profesional.
 
-## Lenguajes de programación:
+## 🧑🏻‍💻 Lenguajes de programación
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white) ![Static Badge](https://img.shields.io/badge/bash-green?style=for-the-badge) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![PHP Badge](https://img.shields.io/badge/PHP-8.2-blue?style=for-the-badge&logo=php&logoColor=white)
 
 
-## Herramientas:
+## 🔧 Herramientas
 
 ![SQL](https://img.shields.io/badge/-SQL-000?style=for-the-badge&logo=MySQL&logoColor=4479A1)![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white) 
 ![AJAX Badge](https://img.shields.io/badge/AJAX-Asynchronous%20Requests-007ec6?style=for-the-badge&logo=javascript&logoColor=white)
 
 
-## Diseño web:
+## 🖥️ Diseño web
 
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)![CSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white) ![Responsive Design Badge](https://img.shields.io/badge/Responsive%20Design-Flexible%20Layouts-28a745?style=for-the-badge&logo=css3&logoColor=white)
 
  
-## Entornos de Trabajo 🌟:
+## 🌟 Entornos de Trabajo
 
 ![Bower License](https://img.shields.io/bower/l/bootstrap?style=for-the-badge&logo=bootstrap&label=bootstrap) ![WordPress Badge](https://img.shields.io/badge/WordPress-CMS-21759b?style=for-the-badge&logo=wordpress&logoColor=white)![Static Badge](https://img.shields.io/badge/Google-workspace?style=for-the-badge)![Static Badge](https://img.shields.io/badge/Microsoft-workspace?style=for-the-badge&logoColor=Blue&color=%231e90ff)
 
 
 
-## Librerías:
+## 📚 Librerías
 
 ![jQuery Badge](https://img.shields.io/badge/jQuery-3.6.4-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
 
-## Estructuras de datos:
+## 📂 Estructuras de datos
 
 ![XML Badge](https://img.shields.io/badge/XML-Data%20Format-orange?style=for-the-badge&logo=codeigniter&logoColor=white) ![JSON Badge](https://img.shields.io/badge/JSON-Data%20Exchange-000000?style=for-the-badge&logo=json&logoColor=white)
 
@@ -67,7 +67,7 @@ Por último, he tenido una experiencia profesional en el extranjero, concretamen
 - Grado de Relaciones Laborales y Recursos Humanos.
 - Título de Técnico Superior en Administración y Finanzas.
 
-## 📚 Formación Complementaria
+## 📖 Formación Complementaria
 
 - Curso de 10 horas en Claude AI: Cowork, Design, Projects, Excel.
 - Curso de 24 horas en Ciberseguridad en el puesto de trabajo.
