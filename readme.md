@@ -78,8 +78,7 @@ Por último, he tenido una experiencia profesional en el extranjero, concretamen
 - Curso de 15 horas de “Resolución de conflictos”.
 - Curso de 15 horas de “Autocoaching”.
 - Curso de 15 horas de “Automotivación y productividad”.
-- “Formación en Prevención de Riesgos Laborales en carretillas elevadoras".
-- “Formación en Prevención de Riesgos Laborales en Espacios confinados Telco”.
+ 
 
 ## 🗣️ Idiomas
 
