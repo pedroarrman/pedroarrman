@@ -37,7 +37,6 @@ Por último, he tenido una experiencia profesional en el extranjero, concretamen
 ![Bower License](https://img.shields.io/bower/l/bootstrap?style=for-the-badge&logo=bootstrap&label=bootstrap) ![WordPress Badge](https://img.shields.io/badge/WordPress-CMS-21759b?style=for-the-badge&logo=wordpress&logoColor=white)![Static Badge](https://img.shields.io/badge/Google-workspace?style=for-the-badge)![Static Badge](https://img.shields.io/badge/Microsoft-workspace?style=for-the-badge&logoColor=Blue&color=%231e90ff)
 
 
-
 ## 📚 Librerías
 
 ![jQuery Badge](https://img.shields.io/badge/jQuery-3.6.4-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
@@ -50,15 +49,11 @@ Por último, he tenido una experiencia profesional en el extranjero, concretamen
 
 | **Fecha** | **Cargo** |
 |---|---|
-| Jul 2026 - Actualidad | **Gestec 🏦** <br>Administrativo de Recursos Humanos. |
+| Jul 2026 - Actualidad | **Progest 🏦** <br>Administrativo de Recursos Humanos. |
 | Feb 2025 - Jun 2026 | **Escribano Cabañero  🥬**<br>Responsable de Recursos Humanos. |
 | Abr 2024 - Jun 2024 | **Remarketing.pt (Portugal) 🤔**<br> Becario de Marketing digital, Seo y redes sociales. |
 | Jul 2022 - May 2023 | **Ayuntamiento de Vara de Rey (Cuenca) 🏠**<br>Técnico dinamizador digital, gestor de contenidos web y redes sociales. |
 | Abr 2021 - Jun 2021 | **Yotta Desarrollos Tecnológicos S.L. 💻**<br>Becario de un proyecto de internacionalización de la empresa en Portugal. |
-| Jun 2020 - Jul 2020 | **Extintores Arribas 📋**<br>Administrativo. |
-| Sep 2019 - Ene 2020 | **Imprenta Repuestos Saiz 📦**<br>Dependiente. |
-| Sep 2018 - Dic 2018 | **Prevención Laboral los Llanos 📂**<br> Ayudante en el departamento de formación, técnico y comercial. |
-| Abr 2015 - Jun 2015 | **Asesoría Jiménez 📝**<br>Administrativo. |
 
 ## 🎓 Formación Académica
 
@@ -69,15 +64,11 @@ Por último, he tenido una experiencia profesional en el extranjero, concretamen
 
 ## 📖 Formación Complementaria
 
-- Curso de 10 horas en Claude AI: Cowork, Design, Projects, Excel.
-- Curso de 24 horas en Ciberseguridad en el puesto de trabajo.
-- Curso de 80 horas en Ofimática y E-administración.
-- Curso de 50 horas sobre Los Planes de Igualdad: Cuestiones Prácticas.
-- Curso de 50 horas sobre Comunicación digital y Networking en internet.
-- Curso de 15 horas de “Regulación emocional”.
-- Curso de 15 horas de “Resolución de conflictos”.
-- Curso de 15 horas de “Autocoaching”.
-- Curso de 15 horas de “Automotivación y productividad”.
+- Curso de Claude AI: Cowork, Design, Projects, Excel.
+- Curso de Ciberseguridad en el puesto de trabajo.
+- Curso de Ofimática y E-administración.
+- Curso de Los Planes de Igualdad: Cuestiones Prácticas.
+- Curso de Comunicación digital y Networking en internet.
  
 
 ## 🗣️ Idiomas
