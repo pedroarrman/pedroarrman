@@ -8,7 +8,7 @@
 
 ## 👇 ¿Quien soy? 🧑
 
-Soy Graduado en Relaciones Laborales y Desarrollo de Recursos Humanos, además de ser graduado en estudios de Máster en Marketing y Estrategia de la Empresa. También cuento con dos ciclos formativos de grado superior: Administración y Finanzas y Desarrollador de Aplicaciones Web .
+Soy Graduado en Relaciones Laborales y Desarrollo de Recursos Humanos, además de ser graduado en estudios de Máster en Marketing y Estrategia de la Empresa. También cuento con dos ciclos formativos de grado superior: Administración y Finanzas y Desarrollador de Aplicaciones Web.
 
 Entre mis cualidades puedo decir que soy una persona que destaca por su buena predisposición a la hora de aprender cosas nuevas, prudencia y compromiso para estar implicado en el día a día de la empresa. Asimismo, cuento con experiencia en el trato al público y capacidad para trabajar en equipo.
 
@@ -32,7 +32,7 @@ Por último, he tenido una experiencia profesional en el extranjero, concretamen
  
 ## Entornos de Trabajo 🌟:
 
-![Bower License](https://img.shields.io/bower/l/bootstrap?style=for-the-badge&logo=bootstrap&label=bootstrap) ![WordPress Badge](https://img.shields.io/badge/WordPress-CMS-21759b?style=for-the-badge&logo=wordpress&logoColor=white)![Static Badge](https://img.shields.io/badge/Google-workspace?style=for-the-badge)
+![Bower License](https://img.shields.io/bower/l/bootstrap?style=for-the-badge&logo=bootstrap&label=bootstrap) ![WordPress Badge](https://img.shields.io/badge/WordPress-CMS-21759b?style=for-the-badge&logo=wordpress&logoColor=white)![Static Badge](https://img.shields.io/badge/Google-workspace?style=for-the-badge)![Static Badge](https://img.shields.io/badge/Microsoft-workspace?style=for-the-badge&logoColor=Blue&color=%231e90ff)
 
 
 
@@ -48,6 +48,7 @@ Por último, he tenido una experiencia profesional en el extranjero, concretamen
 
 | **Fecha** | **Descripción** |
 |---|---|
+| Feb 2025 - Jun 2026 | **Escribano Cabañero  🥬**<br>✪ Gestión de actividades de puesta a disposición de trabajadores por Gestion de la prevención de riesgos laborales. |
 | Abr 2024 - Jun 2024 | **Remarketing.pt (Portugal) 🤔**<br>✪ Realizar y aplicar auditorías de redes sociales.<br>✪ Aplicar tácticas de posicionamiento SEO a páginas web. |
 | Jul 2022 - May 2023 | **Ayuntamiento de Vara de Rey (Cuenca) 🏠**<br>✪ Manejo del gestor de contenidos de la página web y redes sociales.<br>✪ Realizar diseños de infografía y edición de imágenes. |
 | Abr 2021 - Jun 2021 | **Yotta Desarrollos Tecnológicos S.L. 💻**<br>✪ Estudios de mercado.<br>✪ Tareas de gestión de la información. |
