@@ -93,7 +93,7 @@ Por último, he tenido una experiencia profesional en el extranjero, concretamen
 ## 📞 Contacto 📌
 
 
-<a href="https://www.linkedin.com/in/pedro-arribas-manzano-616759a5/?challengeId=AQEJIpvhTijEPgAAAYBNboACWFUcYklT0iWzWzENc_Rk1Dar2f-YXalCWYfrp1VLigeyAb1mjye91id1vjvriubR4qiY87uxJA&submissionId=1da23646-83fd-e716-3db5-1bc29d529b36" target="_blank">&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/arturssmirnovs/arturssmirnovs/master/in.png" alt="LinkedIn" width="30"></a><a href="mailto:arribasmanzanopedro@gmail.com" target="_blank"><img src="https://anuies-tic.anuies.mx/web/wp-content/uploads/2021/03/icono_mail.png" alt="Mail" width="30"></a>
+<a href="https://www.linkedin.com/in/pedro-arribas-manzano-616759a5/?challengeId=AQEJIpvhTijEPgAAAYBNboACWFUcYklT0iWzWzENc_Rk1Dar2f-YXalCWYfrp1VLigeyAb1mjye91id1vjvriubR4qiY87uxJA&submissionId=1da23646-83fd-e716-3db5-1bc29d529b36" target="_blank">    <img src="https://raw.githubusercontent.com/arturssmirnovs/arturssmirnovs/master/in.png" alt="LinkedIn" width="30"></a><a href="mailto:arribasmanzanopedro@gmail.com" target="_blank"><img src="https://anuies-tic.anuies.mx/web/wp-content/uploads/2021/03/icono_mail.png" alt="Mail" width="30"></a>
 
 
 [https://www.canva.com/design/DAGRUj50ZIA/XtVg5ltWTKSkK7YJEJv8-A/view?embed](https://www.canva.com/design/DAGRUj50ZIA/XtVg5ltWTKSkK7YJEJv8-A/view?embed)
