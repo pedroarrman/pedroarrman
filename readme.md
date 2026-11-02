@@ -52,8 +52,8 @@ Por último, he tenido una experiencia profesional en el extranjero, concretamen
 |---|---|
 | Jul 2026 - Actualidad | **Gestec 🏦** <br>Administrativo de Recursos Humanos. |
 | Feb 2025 - Jun 2026 | **Escribano Cabañero  🥬**<br>Responsable de Recursos Humanos. |
-| Abr 2024 - Jun 2024 | **Remarketing.pt (Portugal) 🤔**<br>✪ Becario de Marketing digital. |
-| Jul 2022 - May 2023 | **Ayuntamiento de Vara de Rey (Cuenca) 🏠**<br>Técnico dinamizador digital. |
+| Abr 2024 - Jun 2024 | **Remarketing.pt (Portugal) 🤔**<br> Becario de Marketing digital, Seo y redes sociales. |
+| Jul 2022 - May 2023 | **Ayuntamiento de Vara de Rey (Cuenca) 🏠**<br>Técnico dinamizador digital, gestor de contenidos web y redes sociales. |
 | Abr 2021 - Jun 2021 | **Yotta Desarrollos Tecnológicos S.L. 💻**<br>Becario de un proyecto de internacionalización de la empresa en Portugal. |
 | Jun 2020 - Jul 2020 | **Extintores Arribas 📋**<br>Administrativo. |
 | Sep 2019 - Ene 2020 | **Imprenta Repuestos Saiz 📦**<br>Dependiente. |
@@ -83,11 +83,11 @@ Por último, he tenido una experiencia profesional en el extranjero, concretamen
 
 ## 🗣️ Idiomas
 
-Español: Nativo.
+🇪🇸 Español: Nativo.
 
-Inglés: Nivel B2 tanto hablado como escrito.
+🏴󠁧󠁢󠁥󠁮󠁧󠁿 Inglés: Nivel B2 tanto hablado como escrito.
 
-Portugués: Nivel A2 tanto hablado como escrito.
+🇵🇹 Portugués: Nivel A2 tanto hablado como escrito.
 
 - 📫 Como contactarme ➡️ <a href="https://www.linkedin.com/in/pedro-arribas-manzano-616759a5/?challengeId=AQEJIpvhTijEPgAAAYBNboACWFUcYklT0iWzWzENc_Rk1Dar2f-YXalCWYfrp1VLigeyAb1mjye91id1vjvriubR4qiY87uxJA&submissionId=1da23646-83fd-e716-3db5-1bc29d529b36" target="_blank"><img src="https://raw.githubusercontent.com/arturssmirnovs/arturssmirnovs/master/in.png" alt="LinkedIn" width="30"></a><a href="mailto:arribasmanzanopedro@gmail.com" target="_blank"><img src="https://anuies-tic.anuies.mx/web/wp-content/uploads/2021/03/icono_mail.png" alt="Mail" width="30"></a>
 
