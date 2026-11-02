@@ -50,7 +50,7 @@ Por último, he tenido una experiencia profesional en el extranjero, concretamen
 
 | **Fecha** | **Descripción** |
 |---|---|
-| Jul 2026 - Actualidad | **Gestec 🏦 **<br>Administrativo de Recursos Humanos. |
+| Jul 2026 - Actualidad | **Gestec 🏦** <br>Administrativo de Recursos Humanos. |
 | Feb 2025 - Jun 2026 | **Escribano Cabañero  🥬**<br>Responsable de Recursos Humanos. |
 | Abr 2024 - Jun 2024 | **Remarketing.pt (Portugal) 🤔**<br>✪ Becario de Marketing digital. |
 | Jul 2022 - May 2023 | **Ayuntamiento de Vara de Rey (Cuenca) 🏠**<br>Técnico dinamizador digital. |
