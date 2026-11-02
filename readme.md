@@ -32,7 +32,8 @@ Por último, he tenido una experiencia profesional en el extranjero, concretamen
  
 ## Entornos de Trabajo 🌟:
 
-![Bower License](https://img.shields.io/bower/l/bootstrap?style=for-the-badge&logo=bootstrap&label=bootstrap) ![WordPress Badge](https://img.shields.io/badge/WordPress-CMS-21759b?style=for-the-badge&logo=wordpress&logoColor=white)
+![Bower License](https://img.shields.io/bower/l/bootstrap?style=for-the-badge&logo=bootstrap&label=bootstrap) ![WordPress Badge](https://img.shields.io/badge/WordPress-CMS-21759b?style=for-the-badge&logo=wordpress&logoColor=white)![Static Badge](https://img.shields.io/badge/Google-workspace?style=for-the-badge)
+
 
 
 ## Librerías:
