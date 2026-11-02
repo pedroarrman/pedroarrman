@@ -48,7 +48,7 @@ Por último, he tenido una experiencia profesional en el extranjero, concretamen
 
 ## 💼 Experiencia Profesional
 
-| **Fecha** | **Descripción** |
+| **Fecha** | **Cargo** |
 |---|---|
 | Jul 2026 - Actualidad | **Gestec 🏦** <br>Administrativo de Recursos Humanos. |
 | Feb 2025 - Jun 2026 | **Escribano Cabañero  🥬**<br>Responsable de Recursos Humanos. |
