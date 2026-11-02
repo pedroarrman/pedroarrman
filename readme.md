@@ -50,14 +50,15 @@ Por último, he tenido una experiencia profesional en el extranjero, concretamen
 
 | **Fecha** | **Descripción** |
 |---|---|
-| Feb 2025 - Jun 2026 | **Escribano Cabañero  🥬**<br>✪ Gestión de actividades de puesta a disposición de trabajadores por ETTs <br>✪ Gestion de la prevención de riesgos laborales. |
-| Abr 2024 - Jun 2024 | **Remarketing.pt (Portugal) 🤔**<br>✪ Realizar y aplicar auditorías de redes sociales.<br>✪ Aplicar tácticas de posicionamiento SEO a páginas web. |
-| Jul 2022 - May 2023 | **Ayuntamiento de Vara de Rey (Cuenca) 🏠**<br>✪ Manejo del gestor de contenidos de la página web y redes sociales.<br>✪ Realizar diseños de infografía y edición de imágenes. |
-| Abr 2021 - Jun 2021 | **Yotta Desarrollos Tecnológicos S.L. 💻**<br>✪ Estudios de mercado.<br>✪ Tareas de gestión de la información. |
-| Jun 2020 - Jul 2020 | **Administrativo en Extintores Arribas 📋**<br>✪ Gestionar los servicios proporcionados de forma adecuada en los sistemas informáticos.<br>✪ Realizar la reposición asegurando el excelente estado de la sección y la correcta gestión del stock. |
-| Sep 2019 - Ene 2020 | **Imprenta Repuestos Saiz 📦**<br>✪ Potenciar las ventas superando el objetivo mensual.<br>✪ Asesorar en función de las necesidades del cliente alcanzando un alto índice de satisfacción. |
-| Sep 2018 - Dic 2018 | **Prevención Laboral los Llanos 📂**<br>✪ Administración y redacción de documentación.<br>✪ Ayudante en el departamento de formación, técnico y comercial. |
-| Abr 2015 - Jun 2015 | **Asesoría Jiménez 📝**<br>✪ Elaborar y archivar los documentos con orden clasificado y control<br>✪ Informar y atender al público a través de diferentes vías garantizando su satisfacción. |
+| Jul 2026 - Actualidad | **Gestec 🏦 **<br>Administrativo de Recursos Humanos. |
+| Feb 2025 - Jun 2026 | **Escribano Cabañero  🥬**<br>Responsable de Recursos Humanos. |
+| Abr 2024 - Jun 2024 | **Remarketing.pt (Portugal) 🤔**<br>✪ Becario de Marketing digital. |
+| Jul 2022 - May 2023 | **Ayuntamiento de Vara de Rey (Cuenca) 🏠**<br>Técnico dinamizador digital. |
+| Abr 2021 - Jun 2021 | **Yotta Desarrollos Tecnológicos S.L. 💻**<br>Becario de un proyecto de internacionalización de la empresa en Portugal. |
+| Jun 2020 - Jul 2020 | **Extintores Arribas 📋**<br>Administrativo. |
+| Sep 2019 - Ene 2020 | **Imprenta Repuestos Saiz 📦**<br>Dependiente. |
+| Sep 2018 - Dic 2018 | **Prevención Laboral los Llanos 📂**<br> Ayudante en el departamento de formación, técnico y comercial. |
+| Abr 2015 - Jun 2015 | **Asesoría Jiménez 📝**<br>Administrativo. |
 
 ## 🎓 Formación Académica
 
@@ -68,6 +69,7 @@ Por último, he tenido una experiencia profesional en el extranjero, concretamen
 
 ## 📚 Formación Complementaria
 
+- Curso de 10 horas en Claude AI: Cowork, Design, Projects, Excel.
 - Curso de 24 horas en Ciberseguridad en el puesto de trabajo.
 - Curso de 80 horas en Ofimática y E-administración.
 - Curso de 50 horas sobre Los Planes de Igualdad: Cuestiones Prácticas.
