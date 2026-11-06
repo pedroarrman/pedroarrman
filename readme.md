@@ -70,17 +70,6 @@ Un recurso vinculado a la organización de información y al análisis de cuesti
 
 [➡️ Acceder al cuestionario](https://pedroarrman.github.io/CuestionarioIgualdad/index.html)
 
-## 📋 Administración y gestión documental
-
-## Entrega de EPIs
-
-Formulario digital para registrar entregas de equipos de protección individual.
-
-Permite introducir información del trabajador, registrar los equipos entregados y recoger la firma asociada al procedimiento.
-
-Un proyecto centrado en la digitalización de un procedimiento administrativo y la organización de sus registros.
-
-[➡️ Acceder al formulario](https://pedroarrman.github.io/Entrega_Epis/index.html)
 
 ## 🧩 Sobre el desarrollo de los proyectos
 
