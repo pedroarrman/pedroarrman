@@ -70,7 +70,7 @@ Un recurso vinculado a la organización de información y al análisis de cuesti
 
 [➡️ Acceder al cuestionario](https://pedroarrman.github.io/CuestionarioIgualdad/index.html)
 
-### [Cuestionario de Clima Laboral]
+## Cuestionario de Clima Laboral
 
 Cuestionario digital orientado a recopilar información sobre el clima organizacional y la percepción de las personas trabajadoras.
 
