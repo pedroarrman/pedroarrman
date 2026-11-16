@@ -124,7 +124,7 @@ Mi formación en Desarrollo de Aplicaciones Web me ha permitido adquirir conocim
 
 ## 🔧 Herramientas
 
-![SQL](https://img.shields.io/badge/-SQL-000?style=for-the-badge&logo=MySQL&logoColor=4479A1)![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white) 
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![AJAX Badge](https://img.shields.io/badge/AJAX-Asynchronous%20Requests-007ec6?style=for-the-badge&logo=javascript&logoColor=white)
 
 
