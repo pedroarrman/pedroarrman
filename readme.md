@@ -161,7 +161,7 @@ Mi formación en Desarrollo de Aplicaciones Web me ha permitido adquirir conocim
 ## 📞 Contacto 
 
 <a href="https://www.linkedin.com/in/pedro-arribas-manzano-616759a5/?challengeId=AQEJIpvhTijEPgAAAYBNboACWFUcYklT0iWzWzENc_Rk1Dar2f-YXalCWYfrp1VLigeyAb1mjye91id1vjvriubR4qiY87uxJA&submissionId=1da23646-83fd-e716-3db5-1bc29d529b36" target="_blank">    <img src="https://raw.githubusercontent.com/arturssmirnovs/arturssmirnovs/master/in.png" alt="LinkedIn" width="30"></a><a href="mailto:arribasmanzanopedro@gmail.com">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  ✉️ Contactar por correo electrónico
 </a>
 
 
