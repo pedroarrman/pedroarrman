@@ -160,7 +160,39 @@ Mi formación en Desarrollo de Aplicaciones Web me ha permitido adquirir conocim
 
 ## 📞 Contacto 
 
-<a href="https://www.linkedin.com/in/pedro-arribas-manzano-616759a5/?challengeId=AQEJIpvhTijEPgAAAYBNboACWFUcYklT0iWzWzENc_Rk1Dar2f-YXalCWYfrp1VLigeyAb1mjye91id1vjvriubR4qiY87uxJA&submissionId=1da23646-83fd-e716-3db5-1bc29d529b36" target="_blank">    <img src="https://raw.githubusercontent.com/arturssmirnovs/arturssmirnovs/master/in.png" alt="LinkedIn" width="30"></a><a href="mailto:arribasmanzanopedro@gmail.com" target="_blank"><img src="https://anuies-tic.anuies.mx/web/wp-content/uploads/2021/03/icono_mail.png" alt="Mail" width="30"></a>
+<a href="https://www.linkedin.com/in/pedro-arribas-manzano-616759a5/?challengeId=AQEJIpvhTijEPgAAAYBNboACWFUcYklT0iWzWzENc_Rk1Dar2f-YXalCWYfrp1VLigeyAb1mjye91id1vjvriubR4qiY87uxJA&submissionId=1da23646-83fd-e716-3db5-1bc29d529b36" target="_blank">    <img src="https://raw.githubusercontent.com/arturssmirnovs/arturssmirnovs/master/in.png" alt="LinkedIn" width="30"></a><a href="mailto:arribasmanzanopedro@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+</a>
 
+
+<p align="center">
+  <strong>¡Comparte mi perfil de GitHub!</strong>
+</p>
+
+<p align="center">
+  <a href="https://api.whatsapp.com/send?text=Visita%20mi%20perfil%20de%20GitHub%3A%20https%3A%2F%2Fgithub.com%2Fpedroarrman" target="_blank">
+    📱 WhatsApp
+  </a>
+  &nbsp; · &nbsp;
+  <a href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fgithub.com%2Fpedroarrman" target="_blank">
+    Facebook
+  </a>
+  &nbsp; · &nbsp;
+  <a href="https://twitter.com/intent/tweet?text=Visita%20mi%20perfil%20de%20GitHub&url=https%3A%2F%2Fgithub.com%2Fpedroarrman" target="_blank">
+    𝕏 Twitter
+  </a>
+  &nbsp; · &nbsp;
+  <a href="https://t.me/share/url?url=https%3A%2F%2Fgithub.com%2Fpedroarrman&text=Visita%20mi%20perfil%20de%20GitHub" target="_blank">
+    Telegram
+  </a>
+  &nbsp; · &nbsp;
+  <a href="https://www.linkedin.com/sharing/share-offsite/?url=https%3A%2F%2Fgithub.com%2Fpedroarrman" target="_blank">
+    LinkedIn
+  </a>
+  &nbsp; · &nbsp;
+  <a href="mailto:?subject=Mi%20perfil%20de%20GitHub&body=Visita%20este%20perfil%3A%20https%3A%2F%2Fgithub.com%2Fpedroarrman">
+    ✉️ Email
+  </a>
+</p>
 
 
