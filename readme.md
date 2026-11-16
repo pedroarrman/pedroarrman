@@ -147,7 +147,7 @@ Mi formación en Desarrollo de Aplicaciones Web me ha permitido adquirir conocim
 ![XML Badge](https://img.shields.io/badge/XML-Data%20Format-orange?style=for-the-badge&logo=codeigniter&logoColor=white) ![JSON Badge](https://img.shields.io/badge/JSON-Data%20Exchange-000000?style=for-the-badge&logo=json&logoColor=white)
 
 ## 🧠 IAs
-![Claude](https://img.shields.io/badge/Claude-C15F3C?style=for-the-badge&logo=anthropic&logoColor=white)![ChatGPT](https://img.shields.io/badge/ChatGPT-74AA9C?style=for-the-badge&logo=openai&logoColor=white)![Gemini](https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=googlegemini&logoColor=white)![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white)![Grok](https://img.shields.io/badge/Grok-000000?style=for-the-badge&logo=x&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-C15F3C?style=for-the-badge&logo=anthropic&logoColor=white)![ChatGPT](https://img.shields.io/badge/ChatGPT-74AA9C?style=for-the-badge&logo=openai&logoColor=white)![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white)![Gemini](https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=googlegemini&logoColor=white)![Grok](https://img.shields.io/badge/Grok-000000?style=for-the-badge&logo=x&logoColor=white)
 
 ## 🗣️ Idiomas
 
