@@ -1,10 +1,15 @@
 # PEDRO ARRIBAS MANZANO
 
-![Descripción de la imagen](https://raw.githubusercontent.com/pedroarrman/pedroarrman/refs/heads/main/1279553.jpg)
-
-```
-💡 "Cuando llegue la inspiración, que me encuentre trabajando" - Pablo Picasso.
-```
+<figure>
+  <img
+    src="https://app.notion.com1279553.jpg"
+    alt="Descripción de la imagen"
+    width="100%"
+  />
+  <figcaption align="center">
+    💡 <em>"Cuando llegue la inspiración, que me encuentre trabajando" - Pablo Picasso</em>
+  </figcaption>
+</figure>
 
 ¡Hola! Soy Pedro Arribas Manzano.
 
